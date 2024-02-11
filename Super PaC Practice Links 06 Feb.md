@@ -1,7 +1,7 @@
 # Super PaCC | Practice Links | 06 Feb
 
 ## Insert a node at a specific position in a linked list
-```py []
+```py
 class Node(object):
  
     def __init__(self, data=None, next_node=None):
