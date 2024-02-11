@@ -1,7 +1,7 @@
-## Practice Links | 05 Feb
+# Practice Links | 05 Feb
 
 
-# Quadrant Queries
+## Quadrant Queries
 
 ```java
 import java.io.BufferedReader;
@@ -151,7 +151,7 @@ public class Solution {
 }
 ```
 
-# Sparse Arrays
+## Sparse Arrays
 
 ``` py
 n = int(input())
@@ -168,7 +168,7 @@ for j in range(q):
     print(0 if string not in hashmap else hashmap[string])
 ```
 
-# Count Scorecards
+## Count Scorecards
 
 ```java
 import java.io.*;
@@ -297,7 +297,7 @@ public class Solution {
 }
 ```
 
-# Highest Value Palindrome
+## Highest Value Palindrome
 
 ```py
 import math
@@ -385,7 +385,7 @@ if __name__ == '__main__':
     fptr.close()
 ```
 
-# Maximum Palindromes
+## Maximum Palindromes
 
 ``` py
 import math
@@ -453,7 +453,7 @@ if __name__ == '__main__':
     fptr.close()
 ```
 
-# Sherlock and Anagrams
+## Sherlock and Anagrams
 
 ```py
 cases = int(input())
@@ -476,7 +476,7 @@ for caseNo in range(cases):
 ```
 
 
-# Common Child
+## Common Child
 
 ```py
 import os
@@ -515,7 +515,7 @@ if __name__ == '__main__':
     fptr.close()
 ```
 
-# Bear and Steady Gene
+## Bear and Steady Gene
 
 ```py
 from collections import Counter
